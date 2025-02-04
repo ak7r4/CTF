@@ -1,6 +1,6 @@
 # 🏴‍☠️ CTF Writeups & Hacking Tips
 
-> "The quieter you become, the more you are able to hear." – Kali Linux
+> "Yes, I am a criminal. My crime is that of curiosity. My crime is that of judging people by what they say and think, not what they look like. My crime is that of outsmarting you, something that you will never forgive me for."
 
 ## 🟢 Welcome to the Dark Side
 
