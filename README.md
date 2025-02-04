@@ -1,6 +1,6 @@
 # 🏴‍☠️ CTF Writeups & Hacking Tips
 
-> "Yes, I am a criminal. My crime is that of curiosity."
+> "Yes, I am a criminal. My crime is that of curiosity." - The Mentor, January 8, 1986
 
 ## 🟢 Welcome to the Dark Side
 
